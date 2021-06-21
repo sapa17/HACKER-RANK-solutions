@@ -47,9 +47,10 @@ public class Solution {
       String inputString = scan.nextLine(); // read a line of input and save it to a variable
       scan.close(); // close the scanner
       
-      // Your first line of output goes here
-      System.out.println("Hello, World.");
+      /*Your first line of output goes here*/
       
+      System.out.println("Hello, World.");
+        
       System.out.println(inputString);
    }
 }
