@@ -1,8 +1,8 @@
 # HACKER-RANK-solutions
 
-##Day 0: Hello, World.
+## Day 0: Hello, World.
 
-###Objective
+### Objective
 In this challenge, we review some basic concepts that will get you started with this series. You will need to use the same (or similar) syntax to read input and write output in challenges throughout HackerRank. Check out the Tutorial tab for learning materials and an instructional video!
 
 Task
@@ -57,7 +57,7 @@ public class Solution {
 ---
 ## Day 1: Data Types
 
-Objective
+### Objective
 Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
 
 Task
